@@ -2,9 +2,11 @@
 
 I am a quantum physics PhD, mainly specialised in numerical simulation and package development. You can find my PhD thesis [in this link](https://theses.hal.science/tel-05383369).
 
-The subject of my PhD was _Quantum machine learning with bosonic modes_. During my PhD, I developped a PyTorch package allowing to efficiently simulate the dynamics of coupled gaussian bosonic modes with backpropagation, for gradient descent optimization. You can find a simplified and overhauled version of it on my personal repository [_gausstorch_](https://github.com/Physis21/gausstorch).
+I studied theoretical physics at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in Saclay, France. I then obtained my masters 2 degree from [ENS-PSL](https://www.ens.psl.eu/) in condensed matter theory, and also got a bachelor's degree in computer science from [Université Paris Saclay](https://www.universite-paris-saclay.fr/).
 
-The purpose of the [_gausstorch_](https://github.com/Physis21/gausstorch) package is to provide a scalable and well-documented framework for gaussian mode simulation with PyTorch, for future PhD students in the field.
+The subject of my PhD was _Quantum machine learning with bosonic modes_. During my PhD, I developped a _Python_ package allowing to efficiently simulate the dynamics of coupled gaussian bosonic modes with backpropagation using _PyTorch_, for gradient descent optimization. You can find a simplified and overhauled version of it on my personal repository [_gausstorch_](https://github.com/Physis21/gausstorch).
+
+The purpose of the [_gausstorch_](https://github.com/Physis21/gausstorch) package is to provide a scalable and well-documented framework for gaussian mode simulation with _PyTorch_, for future PhD students in the field.
 
 - 🔭 I’m currently looking for work.
 - 🌱 I’m currently learning software development.
