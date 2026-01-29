@@ -8,8 +8,8 @@ The subject of my PhD was _Quantum machine learning with bosonic modes_. During 
 
 The purpose of the [_gausstorch_](https://github.com/Physis21/gausstorch) package is to provide a scalable and well-documented framework for gaussian mode simulation with _PyTorch_, for future PhD students in the field.
 
-- 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning software development.
-- 👯 I’m looking to collaborate on R&D projects in general. If the physics and software development is interesting, I'm interested.
-- 💬 If you have any questions about my PhD work or the [_gausstorch_](https://github.com/Physis21/gausstorch) package, feel free to contact me.
+At the moment, I am working at OSE_engineering ([link to website](https://www.ose-engineering.fr/en)) as a simulation engineer.
+
+- 💬 If you have any questions about my current work, or about my PhD work including the [_gausstorch_](https://github.com/Physis21/gausstorch) package, feel free to contact me.
 - 📫 Reach me with my email adress: juliendudas[(at)]gmail.com .
+
