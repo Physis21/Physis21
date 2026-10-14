@@ -6,8 +6,6 @@ I studied theoretical physics at [ENS Paris-Saclay](https://ens-paris-saclay.fr/
 
 The subject of my PhD was _Quantum machine learning with bosonic modes_. During my PhD, I developped a _Python_ package allowing to efficiently simulate the dynamics of coupled gaussian bosonic modes with backpropagation using _PyTorch_, for gradient descent optimization. You can find a simplified and overhauled version of it on my personal repository [_gausstorch_](https://github.com/Physis21/gausstorch).
 
-The purpose of the [_gausstorch_](https://github.com/Physis21/gausstorch) package is to provide a scalable and well-documented framework for gaussian mode simulation with _PyTorch_, for future PhD students in the field.
-
 At the moment, I am working at OSE_engineering ([link to website](https://www.ose-engineering.fr/en)) as a simulation engineer, working on different kinds of simulations useful for LNG carriers. On the side, I am studying fullstack development, and computer science in general.
 
 - 💬 If you have any questions about my current work, or about my PhD work including the [_gausstorch_](https://github.com/Physis21/gausstorch) package, feel free to contact me.
